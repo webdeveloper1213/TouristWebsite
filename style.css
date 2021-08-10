@@ -772,6 +772,9 @@ transition: all .3s;
 .change .hamburger-menu {
   left: 3rem;
 }
+.story-text {
+  text-align: center;
+}
 }
 @media(max-width:500px) {
   html {
