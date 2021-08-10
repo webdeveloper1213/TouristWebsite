@@ -1,3 +1,5 @@
+/* Toggle between the front and back of the cards */
+
 Array.from(document.querySelectorAll('.navigation-button')).
 forEach(item => {
     item.onclick = () => {
